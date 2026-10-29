@@ -194,6 +194,11 @@ Want to showcase your own plugin here? See the
         <td>🔎 Measure whether metadata fields (site, scanner, camera, batch) are readable from your embeddings and correlated with your labels — the two conditions for a shortcut. Ranks fields by risk, gives each a verdict, writes a per-sample source-margin score, and estimates the accuracy drop on an unseen source.</td>
     </tr>
     <tr>
+        <td><b><a href="https://github.com/mgustineli/video-to-frames-plugin">@mgustineli/video-to-frames</a></b></td>
+        <td><kbd>video</kbd> <kbd>utils</kbd></td>
+        <td>🎞️ Convert a video dataset into a frames view with a custom frame rate and max size, saved on the same dataset using FiftyOne's native frames view.</td>
+    </tr>
+    <tr>
         <td><b><a href="https://github.com/landing-ai/ade-51">@landingai/ade</a></b></td>
         <td><kbd>ocr</kbd> <kbd>model</kbd> <kbd>text</kbd></td>
         <td>📄 Parse, extract, and split documents using LandingAI's Agentic Document Extraction (ADE) API. Converts PDFs, images, spreadsheets, and Office files into structured Markdown with spatial bounding box grounding.</td>
